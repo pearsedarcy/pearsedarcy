@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 - 🔭 I’m currently working on various open-source projects.
 - 🌱 I’m currently learning advanced algorithms and data structures.
 - 💬 Ask me about web development, Python, and JavaScript.
-- 📫 How to reach me: [pearsey@pearse.dev](mailto:pearsey@pearse.dev)
+- 📫 How to reach me: [pearse@pearse.dev](mailto:pearse@pearse.dev)
 - ⚡ Fun fact: I enjoy downhill skateboarding and cycling in my free time.
 
 ## 🛠️ Languages and Tools
